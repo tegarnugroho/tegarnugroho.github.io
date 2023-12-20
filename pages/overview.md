@@ -53,8 +53,13 @@ Experienced Flutter Developer with a passion for turning ideas into efficient an
 - Kotlin
 
 ## Github Overview
-| <a href="https://github.com/tegarnugroho"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=tegarnugroho&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="tegarnugroho's GitHub stats" /></a> | <a href="https://github.com/tegarnugroho"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarnugroho&layout=compact&theme=graywhite&hide_border=true" /></a> |
-| ------------- | ------------- |
+## Most Used Languages
+<a href="https://github.com/tegarnugroho"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tegarnugroho&layout=compact&theme=graywhite&hide_border=true" /></a>
+
+
+## Statistics
+<a href="https://github.com/tegarnugroho"><img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=tegarnugroho&show_icons=true&include_all_commits=true&theme=graywhite&hide_border=true" alt="tegarnugroho's GitHub stats" /></a>
+
 
 ## Certificates
 - Becoming an Expert Flutter Developer [Dicoding](https://www.dicoding.com/certificates/4EXG6WGMDZRL)
