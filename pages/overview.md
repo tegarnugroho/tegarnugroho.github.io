@@ -64,5 +64,5 @@ Experienced Flutter Developer with a passion for turning ideas into efficient an
 - Learning to Build Web Applications with React. [Dicoding](https://www.dicoding.com/certificates/4EXG5LN6QXRL)
 
 ## Languages
-**English**: C1
+**English**: B1
 **Indonesia**: Native
