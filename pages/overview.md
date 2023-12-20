@@ -35,7 +35,6 @@ Experienced Flutter Developer with a passion for turning ideas into efficient an
 
 `2013-2017` [Brawijaya University](https://ub.ac.id/)
 - **B.I.E. /S.Kom** in Computer Engineering.
-- **Thesis:** Water Level Control in Yumina Bumina's Aquaculture and Plant Cultivation Using the Takagi-Sugeno Fuzzy Method.
 - **Activities:** Organization of the Department's Student Association.
 
 ## Skills
