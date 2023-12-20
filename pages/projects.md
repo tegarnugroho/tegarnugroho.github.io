@@ -16,7 +16,7 @@ For work matters, just use 1 tool, Circle. Don't bother, mostly open tools, don'
 - Involved in fixing bugs, adding new features, and overseeing the release process on both Play Store and App Store.
 - Flutter, Firebase Messaging, Location, Google Signin.
 
-## [Danafix](#/projects) 🔗
+## [Danafix [No longer available]](https://www.instagram.com/danafix_id/p/CX3Q0aJLs7b/?hl=en) 🔗
 Danafix is a licensed and supervised online cash loan service regulated by the Financial Services Authority (OJK) in Indonesia.
 - Involved in the initial creation process of the application from scratch, starting from designing the application structure, development process, testing, to the release process on stores. Also responsible for maintaining bug fixes and adding new features.
 - Flutter, Firebase Messaging, Location, Camera, Appsflyer.
