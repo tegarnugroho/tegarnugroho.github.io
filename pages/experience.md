@@ -1,3 +1,8 @@
+<br />
+<div style='text-align: right;'>
+  <a href="https://drive.google.com/uc?id=1lwIeGlPk8bdW7vaT4a0Mb4Dd1ZalGk0y&export=download">Download Resume</a>
+</div>
+
 # 👨‍💻 Experience
 
 **Flutter Developer** @ [Wolkk](https://www.linkedin.com/company/wolkk/) _(Oct 2022 - Current)_
@@ -47,7 +52,9 @@
 
 **IT Support Intern** @ [Malang State Health Polytechnic (Polkesma)](https://www.linkedin.com/company/politeknik-kesehatan-kemenkes-malang/) _(July 2016 - Sept 2016)_
 
-- Network installation
-- Network maintenance
-- Help the server maintenance process
-- Support and repair for IT devices if something is not working properly
+- Network installation.
+- Network maintenance.
+- Help the server maintenance process.
+- Support and repair for IT devices if something is not working properly.
+
+&nbsp;
