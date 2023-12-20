@@ -21,7 +21,7 @@ Danafix is a licensed and supervised online cash loan service regulated by the F
 - Involved in the initial creation process of the application from scratch, starting from designing the application structure, development process, testing, to the release process on stores. Also responsible for maintaining bug fixes and adding new features.
 - Flutter, Firebase Messaging, Location, Camera, Appsflyer.
 
-## [Tribelio](#/projects) 🔗
+## [Tribelio](https://play.google.com/store/apps/details?id=com.app.tribelio) 🔗
 Tribelio is an application that assists individuals in building and managing their communities. Many business owners create business community groups on existing social media platforms that are already public.
 - Involved in fixing bugs and adding new features to chat messaging.
 - Flutter, Firebase Messaging, Qiscus SDK.
