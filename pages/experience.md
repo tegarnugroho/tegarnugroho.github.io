@@ -1,6 +1,6 @@
 # 👨‍💻 Experience
 
-**Flutter Developer** @ [Wolkk](https://www.linkedin.com/company/wolkk) _(Oct 2022 - Current)_
+**Flutter Developer** @ [Wolkk](https://www.linkedin.com/company/wolkk/) _(Oct 2022 - Current)_
 
 - Participate in preparing application specification requirements. 
 - Convert design into code. 
